@@ -43,5 +43,5 @@ $ cd pro
 
 $ python pro.py
 #   WhatsApp
-  * +2348120058437
+  *
 
